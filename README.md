@@ -1,4 +1,4 @@
-I’m @JohnnyMinho. I'm a 4th year student in the Masters of Telecommunications and Computer Sciences in the Univerisidade do Minho.
+I’m @JohnnyMinho. I'm a 5th year student in the Masters of Telecommunications and Computer Sciences in the Univerisidade do Minho.
 
 I'm currently interested on subjects as:
  - IoT;

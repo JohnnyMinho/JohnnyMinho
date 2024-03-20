@@ -6,8 +6,7 @@ I'm currently interested on subjects as:
  - Kotlin;
  - Cybersecurity;
  - Unmanned Vehicles;
- - Manets and Vanets
- - Vehicular networks
+ - Vehicular networks.
 <!---
 JohnnyMinho/JohnnyMinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

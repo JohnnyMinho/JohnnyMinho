@@ -39,7 +39,7 @@ I’m @JohnnyMinho. I'm currently working as a Backend Engineer while studying i
 <a href="https://inet.omnetpp.org/"><img align="center" width="128" height="48" alt="Image" src="https://github.com/user-attachments/assets/aa57ed6b-c95a-4904-94e6-47fc4fe8f00d" /></a>
 <a href="https://omnetpp.org/"><img align="center" width="128" height="48" alt="Image" src="https://github.com/user-attachments/assets/85003694-2b67-4a11-89e2-3b683604222f" /></a>
 
-## Interested In
+## Currenttly interested in
   - IoT;
   - Cybersecurity;
   - Unmanned Vehicles;
@@ -50,8 +50,6 @@ I’m @JohnnyMinho. I'm currently working as a Backend Engineer while studying i
 ## How to reach me:
 <a href="mailto:email" target=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-I'm currently interested on subjects as:
 
 <!---
 JohnnyMinho/JohnnyMinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
